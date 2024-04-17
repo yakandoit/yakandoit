@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a 3rd year computer science student at Dalhousie University. <br>I'm passionate about exploring the realm of cyber security, machine learning and open source software<br>I'm currently working on my personal project TouchBar GPT <br>I'm always looking to collaborate on open source projects<br>I'm looking for help with implementing a personal productivity software on watchOS<br>I'm currently learning Swift, GO, and penetration testing<br>Ask me about my note taking<br><br> <br>
 
-## Current Focus:
+## 🧠 Current Focus:
   - CSCI 3171 Exam
   - TouchBar GPT
   - Learning more about FinTech
