@@ -5,6 +5,7 @@ I'm a 3rd year computer science student at Dalhousie University. <br>I'm passion
   - CSCI 3171 Exam
   - TouchBar GPT
   - Learning more about FinTech
+  - Summer Co-op/Internship!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sami-yakan/) 
