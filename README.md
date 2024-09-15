@@ -1,11 +1,6 @@
 # 💫 About Me:
-I'm a 3rd year computer science student at Dalhousie University. <br>I'm passionate about exploring the realm of cyber security, machine learning and open source software<br>I'm currently working on my personal project TouchBar GPT <br>I'm always looking to collaborate on open source projects<br>I'm looking for help with implementing a personal productivity software on watchOS<br>I'm currently learning Swift, GO, and penetration testing<br>Ask me about my note taking<br><br> <br>
+5th year comp sci student at Dalhousie University currently on exchange at NUS. <br>'m always looking to collaborate on open source projects<br><br>I'm currently learning Swift, GO, and penetration testing<br>Ask me about my note taking<br><br> <br>
 
-## 🧠 Current Focus:
-  - CSCI 3171 Exam
-  - TouchBar GPT
-  - Learning more about FinTech
-  - Summer Co-op/Internship!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sami-yakan/) 
