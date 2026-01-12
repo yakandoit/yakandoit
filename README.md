@@ -1,5 +1,5 @@
-# 💫 About Me:
-3rd year comp sci student at Dalhousie University currently on exchange at NUS. <br>I'm always looking to collaborate on open source projects<br><br>I'm currently learning Swift, GO, and penetration testing<br>Ask me about my note taking<br>
+
+Comp sci grad from Dalhousie University
 
 
 ## 🌐 Socials:
